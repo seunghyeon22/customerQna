@@ -14,7 +14,8 @@
 <p align="center">다음은 컨텐츠 예시입니다. 너무 많은 내용은 읽기 어렵습니다. 필요한 부분만을 사용하세요.</p>
 
 ---
-
+## 기능 설명 
+[서버 컨트롤러 기능 설명]/src/main/java/kr/co/greenart/web/util/README.md
 <p align="center">
   <h2>Built With</h2>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
