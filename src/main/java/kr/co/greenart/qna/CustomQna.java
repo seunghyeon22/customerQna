@@ -12,14 +12,14 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Builder
 public class CustomQna {
-	private int article_id;
+	private Integer article_id;
 	private String title;
 	private String content;
 	private String username;
 	private String password;
-	private int views;
+	private Integer views;
 	private Timestamp created_at;
 	private Timestamp updated_at;
-	private boolean is_secure;
-	private boolean is_deleted;
+	private Boolean is_secure;
+	private Boolean is_deleted;
 }
