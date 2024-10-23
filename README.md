@@ -15,7 +15,7 @@
 
 ---
 ## 기능 설명 
-[서버 컨트롤러 기능 설명]/src/main/java/kr/co/greenart/web/util/README.md
+[서버 컨트롤러 기능 설명](/src/main/java/kr/co/greenart/web/util/README.md)
 <p align="center">
   <h2>Built With</h2>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
